@@ -21,38 +21,38 @@ a human Procurement Officer.
 <table>
   <tr>
     <td width="50%">
-      <img src="assets/Screenshot%202026-09-08%20215825.png" width="100%" alt="ComplyGeM screenshot 1" />
-      <p align="center"><em>Login</em></p>
-    </td>
-    <td width="50%">
-      <img src="assets/Screenshot%202026-09-08%20215901.png" width="100%" alt="ComplyGeM screenshot 2" />
+      <img src="assets/Screenshot%202026-09-08%20215825.png" width="100%" alt="ComplyGeM dashboard" />
       <p align="center"><em>Dashboard</em></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
-      <img src="assets/Screenshot%202026-09-08%20215942.png" width="100%" alt="ComplyGeM screenshot 3" />
-      <p align="center"><em>Bids</em></p>
-    </td>
-    <td width="50%">
-      <img src="assets/Screenshot%202026-09-08%20220316.png" width="100%" alt="ComplyGeM screenshot 4" />
-      <p align="center"><em>Bid detail / compliance</em></p>
+      <img src="assets/Screenshot%202026-09-08%20215901.png" width="100%" alt="ComplyGeM dashboard - attention and recent bids" />
+      <p align="center"><em>Dashboard — attention & recent bids</em></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="assets/Screenshot%202026-09-08%20220347.png" width="100%" alt="ComplyGeM screenshot 5" />
-      <p align="center"><em>Documents / OCR review</em></p>
+      <img src="assets/Screenshot%202026-09-08%20215942.png" width="100%" alt="ComplyGeM reverification list" />
+      <p align="center"><em>Reverification</em></p>
     </td>
     <td width="50%">
-      <img src="assets/Screenshot%202026-09-08%20220501.png" width="100%" alt="ComplyGeM screenshot 6" />
-      <p align="center"><em>Reports</em></p>
+      <img src="assets/Screenshot%202026-09-08%20220316.png" width="100%" alt="ComplyGeM admin user management" />
+      <p align="center"><em>Admin — user management</em></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="assets/Screenshot%202026-09-08%20223108.png" width="100%" alt="ComplyGeM screenshot 7" />
-      <p align="center"><em>Admin</em></p>
+      <img src="assets/Screenshot%202026-09-08%20220347.png" width="100%" alt="ComplyGeM audit logs" />
+      <p align="center"><em>Audit logs</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/Screenshot%202026-09-08%20220501.png" width="100%" alt="MongoDB container in Docker Desktop" />
+      <p align="center"><em>MongoDB (Docker Desktop)</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/Screenshot%202026-09-08%20223108.png" width="100%" alt="ComplyGeM document OCR review" />
+      <p align="center"><em>Document / OCR review</em></p>
     </td>
     <td width="50%" align="center">
       <a href="assets/SIH%20recording.mp4">▶️ Watch the full demo recording (.mp4)</a>
