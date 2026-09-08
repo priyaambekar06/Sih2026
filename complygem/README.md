@@ -54,9 +54,7 @@ a human Procurement Officer.
       <img src="assets/Screenshot%202026-09-08%20223108.png" width="100%" alt="ComplyGeM document OCR review" />
       <p align="center"><em>Document / OCR review</em></p>
     </td>
-    <td width="50%" align="center">
-      <a href="assets/SIH%20recording.mp4">▶️ Watch the full demo recording (.mp4)</a>
-    </td>
+   
   </tr>
 </table>
 
