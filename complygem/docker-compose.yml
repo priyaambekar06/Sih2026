@@ -1,0 +1,50 @@
+version: "3.9"
+
+services:
+  mongo:
+    image: mongo:7
+    container_name: complygem-mongo
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+
+  ai-service:
+    build: ./ai-service
+    container_name: complygem-ai-service
+    restart: unless-stopped
+    env_file: ./ai-service/.env.example
+    ports:
+      - "8000:8000"
+
+  backend:
+    build: ./backend
+    container_name: complygem-backend
+    restart: unless-stopped
+    depends_on:
+      - mongo
+      - ai-service
+    environment:
+      - PORT=5000
+      - MONGO_URI=mongodb://mongo:27017/complygem
+      - AI_SERVICE_URL=http://ai-service:8000
+      - JWT_SECRET=complygem_super_secret_change_me
+      - CLIENT_URL=http://localhost:8080
+    ports:
+      - "5000:5000"
+    volumes:
+      - backend-uploads:/app/uploads
+
+  frontend:
+    build: ./frontend
+    container_name: complygem-frontend
+    restart: unless-stopped
+    depends_on:
+      - backend
+    ports:
+      - "8080:80"
+
+volumes:
+  mongo-data:
+  backend-uploads:
