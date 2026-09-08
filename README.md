@@ -55,7 +55,7 @@ a human Procurement Officer.
       <p align="center"><em>Document / OCR review</em></p>
     </td>
     <td width="50%" align="center">
-      ▶️ <a href="https://drive.google.com/file/d/14-MKd9RWUaOsaNDqnQFbnk5m9ZgD2gfw/view?usp=drive_link">Demo recording (Google Drive)</a>
+      ▶️ <a href="[https://drive.google.com/file/d/14-MKd9RWUaOsaNDqnQFbnk5m9ZgD2gfw/view?usp=drive_link](https://drive.google.com/file/d/14-MKd9RWUaOsaNDqnQFbnk5m9ZgD2gfw/view?usp=sharing)">Demo recording (Google Drive)</a>
     </td>
   </tr>
 </table>
