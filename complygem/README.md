@@ -16,6 +16,52 @@ a human Procurement Officer.
 
 ---
 
+## Screenshots
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="assets/Screenshot%202026-09-08%20215825.png" width="100%" alt="ComplyGeM screenshot 1" />
+      <p align="center"><em>Login</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/Screenshot%202026-09-08%20215901.png" width="100%" alt="ComplyGeM screenshot 2" />
+      <p align="center"><em>Dashboard</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/Screenshot%202026-09-08%20215942.png" width="100%" alt="ComplyGeM screenshot 3" />
+      <p align="center"><em>Bids</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/Screenshot%202026-09-08%20220316.png" width="100%" alt="ComplyGeM screenshot 4" />
+      <p align="center"><em>Bid detail / compliance</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/Screenshot%202026-09-08%20220347.png" width="100%" alt="ComplyGeM screenshot 5" />
+      <p align="center"><em>Documents / OCR review</em></p>
+    </td>
+    <td width="50%">
+      <img src="assets/Screenshot%202026-09-08%20220501.png" width="100%" alt="ComplyGeM screenshot 6" />
+      <p align="center"><em>Reports</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/Screenshot%202026-09-08%20223108.png" width="100%" alt="ComplyGeM screenshot 7" />
+      <p align="center"><em>Admin</em></p>
+    </td>
+    <td width="50%" align="center">
+      <a href="assets/SIH%20recording.mp4">▶️ Watch the full demo recording (.mp4)</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 1. Architecture
 
 ```
